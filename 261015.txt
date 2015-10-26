@@ -30,4 +30,4 @@ Extra Comments;
 - Swat up on phase and group speed stuff, external examiner territorry. See sketch. 
 - from convection meeting; Lane and Reeder did unbounded solution? - I think they did for numerical model. 
 - SDG; ambiguity in phase speed, could be moving constant or could be moving up and along (?)
-
+- SDG; Is PT a projection in sine? why? It should be but there needs to a justifiable reason. for instance, w is expanded in sine to reach boundary conditions. (?)
