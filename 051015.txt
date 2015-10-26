@@ -1,0 +1,27 @@
+Meeting with SDG only
+
+2-Layer;
+Discussed NR seeding of secular equation. Presented work on missing wave speed which sorts out "wobbly tail" in reconstruction of heating function. 
+
+Uniform N (data collection);
+Presented collected data on convergence of solution, as well as Hovmoller plots which address questions listed in transfer report. 
+
+SDG comments;
+2-Layer;
+- Investigate the periodicity and conditions on n,m (i.e. when tan and cot function are, say, 0 and infty)
+- Generally would be better to seed with c = \frac{D*N1 + N2(H - D)}{H n pi}
+- S-L coeficients; blue look wrong, red look correct.
+- would be good to zoom in around problematic point and investigate. 
+- N2 = 0.0199; SDG speculates that it would still have same problem and integer ratio, but problem is shoved further along. Would be good to try N2 = 0.015, 0.0175, etc and see the problemtatic point "go off". This OK, but would be nice to get a "proper" answer.
+- Investigate N1 = N2 case. See how many modes it takes to go wrong. 
+- There would be no problem with irration numbers (e.g. take D / H = 10 * pi)
+
+Uniform;
+- Alter the number of modes with height. ~50 modes for troposphere. 
+- convergence plots;
+	- check sigma = sigma(t) ? might be that the convergence plotter for sigma may be showing different times.
+	- Choose a "highest lid" case and measure differences from that. "measure against truth".
+	- Plot on log axis.
+	- check difference plots. would expect from negative between smooth and sharp spiked heating. 
+- Transient plot; different kind of experiment, have same heating rate for some time and see difference. Also, same as current plots but look at long time difference (same heating going in over 2 cases, then look at reponse after "total run").
+

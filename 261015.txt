@@ -1,0 +1,33 @@
+Meeting 26/10/15
+DP and SDG present
+
+PT Plotter
+- Choose refernce \theta_0 which makes sense. Choosing this number demonstrates limitations of Boussinesq system?
+- Interested in short-time structure and long-time solution. Locally, does \theta change? Does structure of "heat blob" alter in long time?
+- DP; PV changes locally in the case with rotation
+- Want Hovmoller and anomaly plots. DP; PT plot may look smoother and less noisey than w. May not be so dramatic. 
+- Question for convection scheme; where to put heating?
+
+
+Convergence / c_g ;
+- SDG; best to get this done in the next few weeks. Not the focus of the work but necessary so that we can start focusing on regions of interest, etc. 
+- Use group velocity vector. Infer from plots. Can calculate biggest fourier contributor and plot to convince I'm inferrring the correct speed. 
+- Need to find out when waves bouncing back from lid start entering the solution. 
+- Different horizontal lengthscales -> different k (?) -> different angle. How does angle change?
+- SDG; Use analytic expression for 2D group speed. Does come from wave-like solutions to find expression for \omega. 
+ 
+
+Fourier Transfroms;
+- "filtering" (?)
+- filter response into same scale as toy model configuration. i.e. smooth GCM heating, filter modes which will be seen at same resolution (?). What's the difference?
+
+
+
+Workshops
+- Mathsforesees, Surrey ?
+
+Extra Comments;
+- Swat up on phase and group speed stuff, external examiner territorry. See sketch. 
+- from convection meeting; Lane and Reeder did unbounded solution? - I think they did for numerical model. 
+- SDG; ambiguity in phase speed, could be moving constant or could be moving up and along (?)
+
