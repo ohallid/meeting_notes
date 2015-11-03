@@ -1,0 +1,28 @@
+Meeting 02/11/15;
+DP, SDG present
+
+Subject; Convergence of w solution
+
+Presented document detailing C_g, timescale of valid solutions as well as difference plots. 
+
+Difference;
+- This is absolute difference, might be good to do relative or RMS
+- Plot in bottom part of domain, not whole(!)
+- check order of sigma convergence? How does altering sigma affect things? Understand these plots fully before we move on. Check plot makes sense!
+- What's the non-dimensionalisation? 
+- DP; these are showing amplitude not stucture. We want to observe structure consistent across different lids. 
+- DP; Important to understand these things, but we are interested in studying at one data point. 
+- plot in log_10
+- At short times, why are errors different?
+- want to know gradient of curves
+
+C_g
+- can have negative wavenumbers, so there are 4 responses. Classic picture from Turner(?)
+
+Extra Comments;
+SDG;
+- What are we seeing at long times? Where are maximum errors?
+- At short times, we have a large w field (before it moves off), does this explain difference plots?
+- Once you understand C_g, we may be able to quantitively understand difference plots. 
+DP;
+- Expecting to see smaller angle from horizontal in wider heating cases. 
