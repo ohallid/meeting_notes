@@ -1,0 +1,36 @@
+Meeting 16/11/2015
+Both SDG and DP present.
+
+Presented Document on Convergence of Solution. 
+
+RMS and Difference plots;
+-SDG; Error seems high, lost Q? Shouldn't matter about Q though, given definition. Choose 1 value for w_0?
+-Get Heating to be roughly 10^-3 K s^-1. 
+-May have strict relative error. DP; could do rms of top / rms of bottom of eq.30 ?
+
+
+Fourier Coeficient plots;
+-Both SDG and DP knew that structure would happen.
+-Should do Fourier Coefficient against wavenumber, then express group velocity in terms of that wavenumber (?). 
+-Look at Fourier coefficients for fundamental wavenumber. 
+
+Group Speed;
+-Compare vertical wavenumber against horizontal
+-How does \sigma come into \delta t?
+
+Hovmollers;
+-PT, semi-infinate vs lid, does this make a difference? 
+-3 levels; trapped, intermediate lid, semi-infinate. Intermediate may be some model which see a lid at, say 50km.
+-Get numbers for temp difference, and therefore CAPE.
+
+
+General;
+-Good to do work dimensionless, but need to do it with numbers simultaneously. 
+-Read more, take a few days to get up to speed.
+-DP; Should average a paper a day (?!?!?!?!)
+
+
+To Do;
+-Write a draft thesis chapter (~20 pages), answer question in transfer report. lit review. 
+-Put this to bed, do a good job, then move onto 2-layer.  
+-Present data in accesable way. Start off with stills from movies, then hovmollers, then specific time and explore parameter space. 
