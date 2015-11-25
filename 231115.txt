@@ -1,0 +1,43 @@
+Meeting 23/11/2015;
+Doug's office. 
+SDG, DP present
+
+Presented lastest convergence document.
+Discussed literature.
+
+Convergence;
+- Seemed happy
+- would like to see final 2 panels in large (too see detail)
+
+Fourier decomposition plots;
+- DP; do it for H_l = 2
+
+Literature;
+- well documented stratospheric gravity waves, we're interested in troposphere
+- No qualitative results
+- Shutts has done rotation, but not sensitivity to lid
+- None discuss sensitivity to aspect ratio (R)
+- read Bretherton paper
+- Many are warm bubble forcing (basically kick off with small temp perturbation)
+- Nicholls demonstrates what's going on with mode 1 and 2. Lane and Reeder proclaim 3 is important. 
+
+Questions of interest;
+- horizontal spatial decay rate of w?
+- changes in troposphere 
+- How are gravity waves represented in models (ask S. Vosper). SDG; some models on B or C grids can't get gravity waves when on grid scale (horizontal C_g -> 0 !).
+
+Writing;
+- Begin writing paper
+- Try and have first draft done by Xmas (??!?!!)
+- Start by thinking about objectives. Have these at end of introduction.
+- Be v. specific in title; people will think all gravity waves stuff has been done. 
+- DP; Title to mention "tropospheric response", "horizontal characteristics", "remote response" . 
+- would be good to get rotation (perhaps not by xmas)
+- DP; would be an great bit of work, submit to JAS or quarterly
+- Need to explain why we are going simpler than the literature.
+
+General;
+- Q4 of "Research Q's" - make reference to parameterisation scheme
+- SDG; would be good to have understanding of how convergence plots and Fourier plots fit together.
+- DP; Altering aspect ratio is a pseudo stratification (since we are altering C_g - so too would strafication). 
+- Typical aspect ratio would be 1, which would alter the followin mathematics. DP; Tidy that up. Algebraic expressions for different cases (large R, small R, unity (?)). 
