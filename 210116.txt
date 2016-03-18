@@ -1,0 +1,31 @@
+Meeting 21/01/16
+DP, SDG present
+Discussed figures from paper. DP passed on notes from previous draft. 
+
+General
+- Merge changes from first draft. Then send second draft to SDG
+- think about forcing on grid scale (how gravity waves behave on grid scale?) - not in this paper
+
+Fig 1
+- point out anomalies
+- seems slow, axis mis-labelled? (yes they are)
+ 
+Fig 5 
+- comment on warm blob moving off (won't be like this for rotating note)
+
+CAPE figures
+- CAPE ~0(100) - think this is a simple scaling error (when multiplying by depth to calc the CAPE)
+- general features; radiating is weaker (due to energy lost aloft) and signal progresses faster (due to the excitation of deeper modes).
+- Have clear paragraph simply stating above. 
+- quantify changes (e.g. 20% weaker in radiating case). SDG; "this is what people will quote from your paper". 
+- add in w 
+
+General figure comments
+- no title in figures for paper, info goes in caption. (will just comment out the titles in code)
+- could include table of quantitative differences. 
+
+
+Low-level cooling
+- look at cross section. w will be very differenct.
+- look at low point of atmosphere (for effect on CIN - harder to quantify). 
+- pt the same for trapped case but different in radiating. This is because it's "exciting a whole range of modes which don't necessarily integrate to 0 " (?)

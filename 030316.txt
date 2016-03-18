@@ -1,0 +1,20 @@
+Meeting 03/03/2016
+DP, SDG present
+Discussed new plots, extensions to theory (lifting Boussinesq) and MO collabs
+
+General;
+- Arrange telecon with Rachel Stretton, Alison Stirling, DP and SDG. Doug meeting Alison nest Thurs (10/03/16).
+- SDG; lifting Boussinesq would change details but would be worth it. Will address first order reviewer notes. 
+
+2-Layer (N1, N2);
+- Check N2 value. Look at possibility of using US standard atmosphere. 
+- Need CAPE line plots, hovmollers, etc., for full story. 
+
+Triggering criteria;
+- have as up/down warm/cold in 4 combos.
+- Think about relevency to big questions
+- Tephigram arguments for high CAPE/reduced CIN
+- Think about units in plot. Usually go for energy (convert w to kinetic). 
+
+Remote time series;
+- have at 2km, not tropospheric average

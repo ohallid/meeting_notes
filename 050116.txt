@@ -1,0 +1,42 @@
+05/01/16; First meeting of 2016
+Meeting to discuss draft paper
+DP, SDG present
+
+Discussed structure of Paper as well as content.
+
+General
+- Make it look like a paper as soon as possible. Add Title page, Abstract section (not necessarily written), references
+- Move 3.1 (raising lid) to methods section (2). Section 3 then compares trapped vs. radiating
+- Reduce white space on figures.
+- b response looks wrong (too large). Q seems OK as w are realistic. Bug? b or theta?
+- Can use different colour scale for difference column. Missing detail. 
+
+Section 3, Results;
+- Compare trapped vs radiating.
+
+Intro;
+- Reinstate bullet points for aims paragraph. Lost some of detail
+- Aim 1: "Characteristics of gravity wave to modify/control the environmental response to convection".
+- Characteristics means; vertical variation, meso-scale distribution of heating
+
+Figure 5;
+- Increase magnitude of axis spacings; missing some detail
+- DP; multiply by height and some constant to get CAPE. Look at definition.
+- Want to see sensitivity to lid. Plot dashed line overtop of trapped case.
+- Plot or calculate CAPE from this. Give Quantative evaluation.
+- Could reproduce for mid-level PT maximum and low-level w (key for triggering).
+
+Stratification
+- Would be good to have this in to compare (??!!!?!?!?!)
+
+
+ORDERING
+- 2   - Methods
+- 3.1 - Trapped vs. Radiating: Steady Heating
+			short section. "obvious" solution
+- 3.2 - Trapped vs. Radiating: Transient Heating
+- 3.3 - Horizontal lengthscale dependence in radiation solution
+- 3.4 - Vertical structure of forcing. n=1 + n=2 modes.
+- 3.5 - Stratification?
+
+
