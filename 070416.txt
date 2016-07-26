@@ -1,0 +1,15 @@
+Meeting 7th Apr 2016
+SDG only
+Discussed: EGU poster, Energy flux problem (stratified), wave speeds
+
+Wave speeds;
+> Learn details of NR scheme, wave-speed calcs, order of convergence, etc
+> 100 modes for each Ht may be too many - small contribution from each mode, therefore may not see any errors. Probably not any errors, but should check. 20 modes probably OK. 
+
+Energy
+> Don't use Gill's expression, use derived expression. See extra sheet. Derived expression has no KE term - nonlinear. 
+> SDG had in mind a preliminary problem, namely fire waves at an interface, measure reflection/transmission. Can find analytic solution. See sheet. 
+> integrate over time and space. Perhaps for pulse or till reach steady state. 
+
+SDG gave poster notes on first draft. 
+

@@ -1,0 +1,48 @@
+Meeting 23/03/16
+DP, SDG present
+Discussed latest figures from development of deep atmosphere
+
+General;
+- check \rho term in on all modes (I think it is). Perterbation fields should have exponential term. 
+- where does scale height come in? Scale height is detemined by N (and g). Set N, infer H.
+- Tidy code so that it is easy to switch between deep atmosphere and Boussinesq.
+
+Line plots;
+- theta has a memory of the supression
+- time delay before inhibition is eroded
+- w< 0 cooling generally
+
+
+Criteria;
+>general;
+- Difficult to understand differences. Just do like hovmollers, still useful as they disply 2 bits of info.
+- What's the message? Add shaded region onto line plots as regions favourable to triggereing 
+>2km;
+- 2km is ambient air. Therefore yellow band favourable for triggering. High w, low theta.
+- lifted parcel is buoyant
+
+
+2-Layer;
+>general
+- When is upward radiation at a maximum? (speculated N1 = N2 as this has no trapping/reflection at all).
+- Look for papers by Bruce Southerland ~200s for analytic solutions to "firing gravity waves at an interface"
+- should look at Taylor-Goldstein equtions (and scorer parameters) - see how they relate to my equations
+- Likely to go in discussion. Perhaps 1 figure.
+>Seeds;
+- use c seeder given by SDG
+- "don't spend long getting these seeds, no one will be bothered how you've got them. Likely to be 1 line in thesis, let alone paper". 
+- small number of values, may as well try every c, see where it is close to 0, and use these values to initialise (don't really understand this?!)
+
+Paper;
+- Overall message: Convective adjustment is sensitive to gravity waves (not surprising - but we have amplitude). At what point do we see a big difference?
+- bulk of manuscript written with constant N. 
+- Using 2 N's, find scenario of maximum upward radiation. Compare this with lidded (or 0 radiation!). Inspect tropospheric response.
+
+Rotation
+- DP eager to get onto. 
+- Hopeful of analytic solution for lidded case. Unsure of it's use, for discussion at later date. Gill has similar solution.
+
+Coupling;
+- DP: Something with Lorenz equations and a switch forcing? "whole family of interesting problems".  Discuss later. 
+- Another problem is analytic solutions to Rossby adjustment at the equator? Mapes has some numerical stuff. 
+

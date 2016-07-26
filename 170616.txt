@@ -1,0 +1,22 @@
+Meeting 17/06/16
+SDG and Doug Present
+Doug recently returned from India, caught him up with work.
+Had 2 previous meeting with SDG to sort out Maths section
+Gave both a draft of Paper - DP to read on flight to India
+
+Centered Averaged Figures (requested by Alison);
+- understand why theta is high, but w is not ; pulse of heating is widespread and remains in box for longer. w is superposition of subsidence on upward mode until subsidence mode has left domain.
+- try trapped solution - will giver better understanding. SDG: "should be able to predict shapes"
+- Play around with C, T, L. Can reach some maximum where is levels off. Trapped case is single subsidence mode so much neater. (?)
+- "growing warming as gravity wave evolves, but levels off".
+- Might be worth putting in paper, depending on outcome
+
+Contours of w for range of N2;
+- try for theta or energy flux
+- 2 clearly different dynamical regimes.
+- SDG; " worried about N2 = 0 as it is hydrostatic"
+- Check resonance for the peak. Maybe lid a has resonance at N2 ~= 2.3. 
+- How does this translate in Scorer anaylsis? In Scorer formulation, wind curvature will cancel with N, so may be relevent in certain situations (i.e. some upper level wind)
+- One diagnosis real trapping by investigate Scorer parameter with height. 
+- look at longer times. 3/6/12/...
+- SDG: "when N2 << 1, may be that heating projects onto deeper modes preferentially, which is why we see faster response?". Look at fields to try and explain why it's moving faster with N2 < N1.
